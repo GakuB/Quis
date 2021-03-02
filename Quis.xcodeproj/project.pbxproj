@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA1CA2C425DBD64A0088794B /* 18001.png in Resources */ = {isa = PBXBuildFile; fileRef = FA1CA2C325DBD64A0088794B /* 18001.png */; };
+		FA1CA2C925DBD7160088794B /* 83222.png in Resources */ = {isa = PBXBuildFile; fileRef = FA1CA2C825DBD7160088794B /* 83222.png */; };
+		FA1CA2CE25DBDB0C0088794B /* 81115.png in Resources */ = {isa = PBXBuildFile; fileRef = FA1CA2CD25DBDB0C0088794B /* 81115.png */; };
+		FA36BA4825B6EB9800613BAB /* gold_button.png in Resources */ = {isa = PBXBuildFile; fileRef = FA36BA3425B6EB9800613BAB /* gold_button.png */; };
+		FA860BA825D2931F002844B4 /* game_maoudamashii_1_battle31.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FA860BA725D2931F002844B4 /* game_maoudamashii_1_battle31.mp3 */; };
+		FA860BB025D2976F002844B4 /* mark_syuku.png in Resources */ = {isa = PBXBuildFile; fileRef = FA860BAF25D2976F002844B4 /* mark_syuku.png */; };
 		FAE3F2F625A472E50063EE5A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE3F2F525A472E50063EE5A /* AppDelegate.swift */; };
 		FAE3F2F825A472E50063EE5A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE3F2F725A472E50063EE5A /* SceneDelegate.swift */; };
 		FAE3F2FA25A472E50063EE5A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE3F2F925A472E50063EE5A /* ViewController.swift */; };
@@ -15,6 +21,8 @@
 		FAE3F30225A472E80063EE5A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAE3F30025A472E80063EE5A /* LaunchScreen.storyboard */; };
 		FAE3F30D25A472E90063EE5A /* QuisTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE3F30C25A472E90063EE5A /* QuisTests.swift */; };
 		FAE3F31825A472E90063EE5A /* QuisUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE3F31725A472E90063EE5A /* QuisUITests.swift */; };
+		FAE3F32925A473800063EE5A /* QuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE3F32825A473800063EE5A /* QuizViewController.swift */; };
+		FAE3F33125A476590063EE5A /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE3F33025A476590063EE5A /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +43,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FA1CA2C325DBD64A0088794B /* 18001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 18001.png; sourceTree = "<group>"; };
+		FA1CA2C825DBD7160088794B /* 83222.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 83222.png; sourceTree = "<group>"; };
+		FA1CA2CD25DBDB0C0088794B /* 81115.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 81115.png; sourceTree = "<group>"; };
+		FA36BA3425B6EB9800613BAB /* gold_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gold_button.png; sourceTree = "<group>"; };
+		FA860BA725D2931F002844B4 /* game_maoudamashii_1_battle31.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = game_maoudamashii_1_battle31.mp3; sourceTree = "<group>"; };
+		FA860BAF25D2976F002844B4 /* mark_syuku.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mark_syuku.png; sourceTree = "<group>"; };
 		FAE3F2F225A472E50063EE5A /* Quis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quis.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAE3F2F525A472E50063EE5A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAE3F2F725A472E50063EE5A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +63,8 @@
 		FAE3F31325A472E90063EE5A /* QuisUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuisUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAE3F31725A472E90063EE5A /* QuisUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuisUITests.swift; sourceTree = "<group>"; };
 		FAE3F31925A472E90063EE5A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAE3F32825A473800063EE5A /* QuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizViewController.swift; sourceTree = "<group>"; };
+		FAE3F33025A476590063EE5A /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +92,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FA36BA2F25B6EB9800613BAB /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				FA36BA3425B6EB9800613BAB /* gold_button.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
 		FAE3F2E925A472E50063EE5A = {
 			isa = PBXGroup;
 			children = (
@@ -102,9 +126,17 @@
 				FAE3F2F525A472E50063EE5A /* AppDelegate.swift */,
 				FAE3F2F725A472E50063EE5A /* SceneDelegate.swift */,
 				FAE3F2F925A472E50063EE5A /* ViewController.swift */,
+				FAE3F32825A473800063EE5A /* QuizViewController.swift */,
+				FAE3F33025A476590063EE5A /* ResultViewController.swift */,
 				FAE3F2FB25A472E50063EE5A /* Main.storyboard */,
 				FAE3F2FE25A472E80063EE5A /* Assets.xcassets */,
+				FA1CA2C325DBD64A0088794B /* 18001.png */,
 				FAE3F30025A472E80063EE5A /* LaunchScreen.storyboard */,
+				FA1CA2CD25DBDB0C0088794B /* 81115.png */,
+				FA860BA725D2931F002844B4 /* game_maoudamashii_1_battle31.mp3 */,
+				FA1CA2C825DBD7160088794B /* 83222.png */,
+				FA860BAF25D2976F002844B4 /* mark_syuku.png */,
+				FA36BA2F25B6EB9800613BAB /* Images */,
 				FAE3F30325A472E80063EE5A /* Info.plist */,
 			);
 			path = Quis;
@@ -231,8 +263,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA36BA4825B6EB9800613BAB /* gold_button.png in Resources */,
+				FA1CA2C425DBD64A0088794B /* 18001.png in Resources */,
 				FAE3F30225A472E80063EE5A /* LaunchScreen.storyboard in Resources */,
+				FA1CA2CE25DBDB0C0088794B /* 81115.png in Resources */,
+				FA860BA825D2931F002844B4 /* game_maoudamashii_1_battle31.mp3 in Resources */,
 				FAE3F2FF25A472E80063EE5A /* Assets.xcassets in Resources */,
+				FA1CA2C925DBD7160088794B /* 83222.png in Resources */,
+				FA860BB025D2976F002844B4 /* mark_syuku.png in Resources */,
 				FAE3F2FD25A472E50063EE5A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -258,9 +296,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAE3F33125A476590063EE5A /* ResultViewController.swift in Sources */,
 				FAE3F2FA25A472E50063EE5A /* ViewController.swift in Sources */,
 				FAE3F2F625A472E50063EE5A /* AppDelegate.swift in Sources */,
 				FAE3F2F825A472E50063EE5A /* SceneDelegate.swift in Sources */,
+				FAE3F32925A473800063EE5A /* QuizViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
